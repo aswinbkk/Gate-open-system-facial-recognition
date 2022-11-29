@@ -56,8 +56,7 @@ def confirm_your_face(request):
 		print("training complete")
 		q += 1
 	face_classifier = cv2.CascadeClassifier(
-		'C:/Users/aswin/PycharmProjects/Gate-open-system-facial-recognition/'
-		'venv/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml')
+		'C:/Users/aswin/PycharmProjects/Gate-open-system-facial-recognition/venv/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml')
 
 	def speak(audio):
 		engine.say(audio)
@@ -117,13 +116,13 @@ def confirm_your_face(request):
 	cv2.destroyAllWindows()
 	if x >= 5:
 		m = 1
-   #    ard = serial.Serial('com5', 9600)
+		ard = serial.Serial('com12',9600)
 		time.sleep(2)
 		var = 'a'
 		c = var.encode()
 		messages.success(request, f'Authentication Successfully.')
 		speak("Face recognition complete..it is matching with database...welcome..sir...gate is openning for 5 seconds")
-   #	ard.write(c)
+		ard.write(c)
 		time.sleep(4)
 	elif c == 30:
 		speak("face is not matching..please try again")
@@ -141,8 +140,7 @@ def confirm_your_face(request):
 def add_new_face(request):
 
 	face_classifier = cv2.CascadeClassifier(
-		'C:/Users/aswin/PycharmProjects/Gate-open-system-facial-recognition/'
-		'venv/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml')
+		'C:/Users/aswin/PycharmProjects/Gate-open-system-facial-recognition/venv/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml')
 
 	def face_extractor(img):
 		gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
