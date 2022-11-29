@@ -1,64 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="467810a4-9408-4480-9d6a-87dedcdd42d6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Gate-open-system-facial-recognition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Gate-open-system-facial-recognition.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="467810a4-9408-4480-9d6a-87dedcdd42d6" name="Changes" comment="database update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/database/user1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/database/user10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/database/user11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/database/user12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/database/user13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/database/user2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/database/user3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/database/user4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/database/user5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/database/user6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/database/user7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/database/user8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/user9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/database/user9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recognition/static/recognition/img/lakshmi.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recognition/static/recognition/img/sayoojj.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recognition/templates/recognition/add_new_face_instructions.html" beforeDir="false" afterPath="$PROJECT_DIR$/recognition/templates/recognition/add_new_face_instructions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recognition/templates/recognition/confirm_your_face_instructions.html" beforeDir="false" afterPath="$PROJECT_DIR$/recognition/templates/recognition/confirm_your_face_instructions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recognition/templates/recognition/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/recognition/templates/recognition/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recognition/templates/recognition/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/recognition/templates/recognition/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recognition/templates/recognition/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/recognition/templates/recognition/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recognition/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/recognition/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +60,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669734738176</updated>
     </task>
+    <task id="LOCAL-00001" summary="database update">
+      <created>1669737566489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669737566489</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,5 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="database update" />
+    <option name="LAST_COMMIT_MESSAGE" value="database update" />
   </component>
 </project>
