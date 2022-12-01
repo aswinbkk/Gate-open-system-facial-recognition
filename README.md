@@ -114,8 +114,8 @@ board using arduino IDE.
 4. Log In UI
 
 ```shell
-Username: admin
-Password: team5
+Username: aswinbkk
+Password: aswinbkk
 ```
 <img src="image/ui_login.png" style="width:600px;height:318px">
 
@@ -135,6 +135,15 @@ arduino and arduino will drive the servo motor, gate will be open for 5 seconds.
 9. Our team
 
 <img src="image/ui_about.png" style="width:600px;height:318px">
+
+---
+>### Impotant Commands ###
+
+```python manage.py runserver```
+```python manage.py migrate```
+```python manage.py createsuperuser```
+```Get-ExecutionPolicy -List```
+```Set-ExecutionPolicy Unrestricted```
 
 ---
 >### Future Scope ###

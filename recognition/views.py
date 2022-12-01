@@ -16,7 +16,7 @@ def home(request):
 
 @login_required
 def dashboard(request):
-	if(request.user.username == 'admin'):
+	if(request.user.username == 'aswinbkk'):
 		print("admin")
 		return render(request, 'recognition/admin_dashboard.html')
 
