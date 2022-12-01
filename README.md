@@ -1,6 +1,7 @@
 # AUTOMATIC BOOM BARRIER USING FACE DETECTION 
 (Gate-open-system-using-facial-recognition)
 
+---
 >### Abstract ###
 
 Security systems have suggested various preferred approaches like biometric and
@@ -14,7 +15,7 @@ the database. If the image matches with the administration image then gate will 
 unlocked and an acknowledgement is saved in the database system. If face is not
 matched, then a warning message will be sent to the admin device, as someone is trying
 to unlock the gate.
-
+---
 >### Hardware Components ###
 
 **1. Arduino Uno**
@@ -28,7 +29,7 @@ to unlock the gate.
 **3. Web Cam**
 
 <img src="image/webcam.png" style="width:300px;height:257px">
-
+---
 >### Software Components ### 
 
 **1. Pycharm IDE**
@@ -72,7 +73,7 @@ to write code and upload it to the board. This software
 can be used with any Arduino board.
 
 [![Click to Download](http://img.shields.io/:Click_to_Download-Arduino_IDE-green.svg?style=flat-square)](https://www.arduino.cc/en/software)
-
+---
 >### Circuit Diagram ###
 
 <img src="image/circuit_diagram.png" style="width:600px;height:363px">
@@ -85,9 +86,9 @@ arduino Cable.
 - At first the python code will be write on any of the python
 IDE than arduino_code will be uploaded to arduino Uno
 board using arduino IDE.
-
+---
 >### Result ###
-> 
+
 1. Run the command ```python manage.py runserver``` on Pycharm terminal
 
 <img src="image/terminal1.png" style="width:600px;height:318px">
@@ -113,10 +114,29 @@ arduino and arduino will drive the servo motor, gate will be open for 5 seconds.
 
 <img src="image/ui_confirm.png" style="width:600px;height:318px">
 
+6. Our team
+7. 
 <img src="image/ui_about.png" style="width:600px;height:318px">
 
+---
+>### Future Scope ###
+This project is currently implemented in small scale structures such as household .It can
+be widely installed for large scale purposes like gates of institutions ,factories, large
+organisational structure etc. to provide higher security . It can completely reduce
+manpower in the future . Use of higher facial features recognition in biometrics technology
+can be included . The technology can be mapped into mobiles phones and other easy to
+use technologies which will contribute to future scopes and improvements.
+---
+>### Conclusion ###
 
+In this proposed gate access system by using the face recognition technology the images
+are stored in a database. This system is used door lock access for Residential purposes and
+Commercial Purposes. Here we have designed a highly secured gate locking system by
+using webcam. This paper concludes the advanced implements in the face recognition
+process in various places. The main purpose of the project to ensure security at the low
+cost.
 
+---
 >### License
 
 [![License](http://img.shields.io/:License-Aswin_BKK-blue.svg?style=flat-square)](https://en.wikipedia.org/wiki/Open-source_license)
