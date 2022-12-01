@@ -3,6 +3,7 @@
 > Gate-open-system-facial-recognition
 
 ### Abstract ###
+
 Security systems have suggested various preferred approaches like biometric and
 password to enhance security. The technology is developing day by day and growing with
 the usage of different equipments. The trend has been moved from fingerprint to face
@@ -14,8 +15,10 @@ the database. If the image matches with the administration image then gate will 
 unlocked and an acknowledgement is saved in the database system. If face is not
 matched, then a warning message will be sent to the admin device, as someone is trying
 to unlock the gate.
+
 ### Circuit Diagram ###
-<img src="image/circuit_diagram.jpg" style="width:720px;height:420px">
+
+<img src="image/circuit_diagram.jpg" style="width:600px;height:300px">
 
 - Servo Motor Signal Pin will be Connected to the arduino
 PWM Pin Number 9. The 5V pin will be connected to
@@ -29,7 +32,9 @@ will collect the sample pictures and then run 2nd code and it
 will start the webcam and take pictures , if the picture match
 with database upto 83% then it will send a signal to the
 arduino and arduino will drive the servo motor for 5 seconds.
+
 ### Hardware Components ###
+
 - Arduino Uno
 <img src="image/arduino.png" style="width:300px;height:300px">
 - Servo Motor
