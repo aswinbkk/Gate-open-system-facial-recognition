@@ -38,6 +38,8 @@ used in computer programming, specifically for the
 Python programming language. It is developed by the
 Czech company JetBrains.
 
+[![Click to Download](http://img.shields.io/:Click_to_Download-Pycharm_IDE-green.svg?style=flat-square)](https://www.jetbrains.com/pycharm/download)
+
 **a) Django**
 
 Django is a high-level Python web framework that
@@ -68,6 +70,8 @@ compatible with both Python 2 and 3.
 The open-source Arduino Software (IDE) makes it easy
 to write code and upload it to the board. This software
 can be used with any Arduino board.
+
+[![Click to Download](http://img.shields.io/:Click_to_Download-Arduino_IDE-green.svg?style=flat-square)](https://www.arduino.cc/en/software)
 
 >### Circuit Diagram ###
 
