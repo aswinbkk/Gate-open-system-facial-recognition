@@ -90,9 +90,12 @@ board using arduino IDE.
 > 
 1. Run the command ```python manage.py runserver``` on Pycharm terminal
 
-<img src="image/webcam.png" style="width:300px;height:257px">
+<img src="image/terminal1.png" style="width:600px;height:318px">
 
 2. Open starting development server URL
+
+<img src="image/terminal2.png" style="width:600px;height:318px">
+
 3. it will collect the sample pictures 
 4. Then run 2nd code and it will start the webcam and take pictures
 5. if the picture match with database upto 83% then it will send a signal to the
