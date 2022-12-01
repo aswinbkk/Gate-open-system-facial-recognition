@@ -41,7 +41,7 @@ used in computer programming, specifically for the
 Python programming language. It is developed by the
 Czech company JetBrains.
 
-<img src="image/pycharm_ide.png" style="width:600px;height:318px">
+<img src="image/pycharm_ide.png" style="width:300px;height:187px">
 
 [![Click to Download](http://img.shields.io/:Click_to_Download-Pycharm_IDE-green.svg?style=flat-square)](https://www.jetbrains.com/pycharm/download)
 
@@ -78,7 +78,7 @@ The open-source Arduino Software (IDE) makes it easy
 to write code and upload it to the board. This software
 can be used with any Arduino board.
 
-<img src="image/arduino_ide.png" style="width:600px;height:318px">
+<img src="image/arduino_ide.png" style="width:300px;height:207px">
 
 [![Click to Download](http://img.shields.io/:Click_to_Download-Arduino_IDE-green.svg?style=flat-square)](https://www.arduino.cc/en/software)
 
