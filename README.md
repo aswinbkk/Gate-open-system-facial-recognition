@@ -36,11 +36,11 @@ arduino and arduino will drive the servo motor for 5 seconds.
 ### Hardware Components ###
 
 - Arduino Uno
-<img src="image/arduino.png" style="width:300px;height:300px">
+<img src="image/arduino.png" style="width:300px;height:233px">
 - Servo Motor
 <img src="image/servo_motor.png" style="width:300px;height:300px">
 - Web Cam
-<img src="image/webcam.png" style="width:300px;height:300px">
+<img src="image/webcam.png" style="width:300px;height:257px">
 
 ## License
 
