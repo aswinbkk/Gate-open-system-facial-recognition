@@ -15,7 +15,7 @@ unlocked and an acknowledgement is saved in the database system. If face is not
 matched, then a warning message will be sent to the admin device, as someone is trying
 to unlock the gate.
 ### Circuit Diagram ###
-<img src="image/circuit_diagram.jpg" style="width:1024px;height:720px">
+<img src="image/circuit_diagram.jpg" style="width:720px;height:420px">
 
 - Servo Motor Signal Pin will be Connected to the arduino
 PWM Pin Number 9. The 5V pin will be connected to
