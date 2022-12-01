@@ -18,7 +18,7 @@ to unlock the gate.
 
 ### Circuit Diagram ###
 
-<img src="image/circuit_diagram.jpg" style="width:300px;height:181px">
+<img src="image/circuit_diagram.png" style="width:300px;height:181px">
 
 - Servo Motor Signal Pin will be Connected to the arduino
 PWM Pin Number 9. The 5V pin will be connected to
