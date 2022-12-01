@@ -70,6 +70,8 @@ Pyttsx 3 is a text-to-speech conversion library in Python.
 Unlike alternative libraries, it works offline and is
 compatible with both Python 2 and 3.
 
+<img src="image/interpreter.png" style="width:600px;height:318px">
+
 **2. Arduino IDE**
 
 The open-source Arduino Software (IDE) makes it easy
