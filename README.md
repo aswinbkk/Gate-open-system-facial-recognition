@@ -35,14 +35,54 @@ arduino and arduino will drive the servo motor for 5 seconds.
 
 ### Hardware Components ###
 
-- Arduino Uno
+**1. Arduino Uno**
 <img src="image/arduino.png" style="width:300px;height:233px">
 
-- Servo Motor
+**2. Servo Motor**
 <img src="image/servo_motor.png" style="width:300px;height:300px">
 
-- Web Cam
+**3. Web Cam**
 <img src="image/webcam.png" style="width:300px;height:257px">
+
+### Software Components ### 
+
+**1. Pycharm IDE**
+
+PyCharm is an integrated development environment
+used in computer programming, specifically for the
+Python programming language. It is developed by the
+Czech company JetBrains.
+
+**a) Django**
+
+Django is a high-level Python web framework that
+encourages rapid development and clean, pragmatic
+design. Django makes it easier to build better web apps
+quickly and with less code.
+
+**b) OpenCV-python**
+
+OpenCV is a library of programming functions mainly
+aimed at real-time computer vision. Originally developed
+by Intel.
+
+**c) Pyserial**
+
+PySerial is a Python API module which is used to read
+and write serial data to Arduino or any other
+Microcontroller.
+
+**d) Pyttsx 3**
+
+Pyttsx 3 is a text-to-speech conversion library in Python.
+Unlike alternative libraries, it works offline and is
+compatible with both Python 2 and 3.
+
+**2. Arduino IDE**
+
+The open-source Arduino Software (IDE) makes it easy
+to write code and upload it to the board. This software
+can be used with any Arduino board.
 
 ## License
 
