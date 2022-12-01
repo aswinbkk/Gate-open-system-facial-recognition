@@ -96,10 +96,26 @@ board using arduino IDE.
 
 <img src="image/terminal2.png" style="width:600px;height:318px">
 
-3. it will collect the sample pictures 
-4. Then run 2nd code and it will start the webcam and take pictures
+<img src="image/ui_home.png" style="width:600px;height:318px">
+
+<img src="image/ui_login.png" style="width:600px;height:318px">
+
+<img src="image/ui_dashboard.png" style="width:600px;height:318px">
+
+3. it will collect the sample pictures
+
+<img src="image/ui_add.png" style="width:600px;height:318px">
+
+4. it will start the webcam and take pictures
+
 5. if the picture match with database upto 83% then it will send a signal to the
 arduino and arduino will drive the servo motor, gate will be open for 5 seconds.
+
+<img src="image/ui_confirm.png" style="width:600px;height:318px">
+
+<img src="image/ui_about.png" style="width:600px;height:318px">
+
+
 
 >### License
 
