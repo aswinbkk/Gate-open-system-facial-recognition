@@ -18,12 +18,15 @@ to unlock the gate.
 >### Hardware Components ###
 
 **1. Arduino Uno**
+
 <img src="image/arduino.png" style="width:300px;height:233px">
 
 **2. Servo Motor**
+
 <img src="image/servo_motor.png" style="width:300px;height:300px">
 
 **3. Web Cam**
+
 <img src="image/webcam.png" style="width:300px;height:257px">
 
 >### Software Components ### 
@@ -76,12 +79,20 @@ Arduino 5v pin and Ground pin will be connected to Arduino
 Ground pin. Arduino must be connected to PC through
 arduino Cable.
 - At first the python code will be write on any of the python
-IDE than arduino code will be uploaded to arduino Uno
-board using arduino IDE and then Run the 1st python code it
-will collect the sample pictures and then run 2nd code and it
-will start the webcam and take pictures , if the picture match
-with database upto 83% then it will send a signal to the
-arduino and arduino will drive the servo motor for 5 seconds.
+IDE than arduino_code will be uploaded to arduino Uno
+board using arduino IDE.
+
+>### Result ###
+> 
+1. Run the command ```python manage.py runserver``` on Pycharm terminal
+
+<img src="image/webcam.png" style="width:300px;height:257px">
+
+2. Open starting development server URL
+3. it will collect the sample pictures 
+4. Then run 2nd code and it will start the webcam and take pictures
+5. if the picture match with database upto 83% then it will send a signal to the
+arduino and arduino will drive the servo motor, gate will be open for 5 seconds.
 
 >### License
 
