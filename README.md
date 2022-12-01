@@ -15,6 +15,7 @@ the database. If the image matches with the administration image then gate will 
 unlocked and an acknowledgement is saved in the database system. If face is not
 matched, then a warning message will be sent to the admin device, as someone is trying
 to unlock the gate.
+
 ---
 >### Hardware Components ###
 
@@ -29,6 +30,7 @@ to unlock the gate.
 **3. Web Cam**
 
 <img src="image/webcam.png" style="width:300px;height:257px">
+
 ---
 >### Software Components ### 
 
@@ -73,6 +75,7 @@ to write code and upload it to the board. This software
 can be used with any Arduino board.
 
 [![Click to Download](http://img.shields.io/:Click_to_Download-Arduino_IDE-green.svg?style=flat-square)](https://www.arduino.cc/en/software)
+
 ---
 >### Circuit Diagram ###
 
@@ -86,10 +89,11 @@ arduino Cable.
 - At first the python code will be write on any of the python
 IDE than arduino_code will be uploaded to arduino Uno
 board using arduino IDE.
+
 ---
 >### Result ###
 
-1. Run the command ```python manage.py runserver``` on Pycharm terminal
+1. Run the command ```python manage.py runserver``` on pycharm terminal
 
 <img src="image/terminal1.png" style="width:600px;height:318px">
 
@@ -97,35 +101,45 @@ board using arduino IDE.
 
 <img src="image/terminal2.png" style="width:600px;height:318px">
 
+3. Home UI
+
 <img src="image/ui_home.png" style="width:600px;height:318px">
 
+4. Log In UI
+
+```shell
+Username: admin
+Password: team5
+```
 <img src="image/ui_login.png" style="width:600px;height:318px">
+
+6. Dashboard UI
 
 <img src="image/ui_dashboard.png" style="width:600px;height:318px">
 
-3. it will collect the sample pictures
+6. Add new face instructions, it will collect the sample pictures
 
 <img src="image/ui_add.png" style="width:600px;height:318px">
 
-4. it will start the webcam and take pictures
-
-5. if the picture match with database upto 83% then it will send a signal to the
+7. Confirm face instructions, it will start the webcam and take pictures. If the picture match with database upto 83% then it will send a signal to the
 arduino and arduino will drive the servo motor, gate will be open for 5 seconds.
 
 <img src="image/ui_confirm.png" style="width:600px;height:318px">
 
-6. Our team
-7. 
+9. Our team
+
 <img src="image/ui_about.png" style="width:600px;height:318px">
 
 ---
 >### Future Scope ###
+
 This project is currently implemented in small scale structures such as household .It can
 be widely installed for large scale purposes like gates of institutions ,factories, large
 organisational structure etc. to provide higher security . It can completely reduce
 manpower in the future . Use of higher facial features recognition in biometrics technology
 can be included . The technology can be mapped into mobiles phones and other easy to
 use technologies which will contribute to future scopes and improvements.
+
 ---
 >### Conclusion ###
 
