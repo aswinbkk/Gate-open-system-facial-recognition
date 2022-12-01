@@ -1,8 +1,7 @@
-# AUTOMATIC BOOM BARRIER USING FACE DETECTION
+# AUTOMATIC BOOM BARRIER USING FACE DETECTION 
+(Gate-open-system-using-facial-recognition)
 
-> Gate-open-system-facial-recognition
-
-### Abstract ###
+>### Abstract ###
 
 Security systems have suggested various preferred approaches like biometric and
 password to enhance security. The technology is developing day by day and growing with
@@ -16,24 +15,7 @@ unlocked and an acknowledgement is saved in the database system. If face is not
 matched, then a warning message will be sent to the admin device, as someone is trying
 to unlock the gate.
 
-### Circuit Diagram ###
-
-<img src="image/circuit_diagram.png" style="width:600px;height:363px">
-
-- Servo Motor Signal Pin will be Connected to the arduino
-PWM Pin Number 9. The 5V pin will be connected to
-Arduino 5v pin and Ground pin will be connected to Arduino
-Ground pin. Arduino must be connected to PC through
-arduino Cable.
-- At first the python code will be write on any of the python
-IDE than arduino code will be uploaded to arduino Uno
-board using arduino IDE and then Run the 1st python code it
-will collect the sample pictures and then run 2nd code and it
-will start the webcam and take pictures , if the picture match
-with database upto 83% then it will send a signal to the
-arduino and arduino will drive the servo motor for 5 seconds.
-
-### Hardware Components ###
+>### Hardware Components ###
 
 **1. Arduino Uno**
 <img src="image/arduino.png" style="width:300px;height:233px">
@@ -44,7 +26,7 @@ arduino and arduino will drive the servo motor for 5 seconds.
 **3. Web Cam**
 <img src="image/webcam.png" style="width:300px;height:257px">
 
-### Software Components ### 
+>### Software Components ### 
 
 **1. Pycharm IDE**
 
@@ -84,7 +66,24 @@ The open-source Arduino Software (IDE) makes it easy
 to write code and upload it to the board. This software
 can be used with any Arduino board.
 
-## License
+>### Circuit Diagram ###
+
+<img src="image/circuit_diagram.png" style="width:600px;height:363px">
+
+- Servo Motor Signal Pin will be Connected to the arduino
+PWM Pin Number 9. The 5V pin will be connected to
+Arduino 5v pin and Ground pin will be connected to Arduino
+Ground pin. Arduino must be connected to PC through
+arduino Cable.
+- At first the python code will be write on any of the python
+IDE than arduino code will be uploaded to arduino Uno
+board using arduino IDE and then Run the 1st python code it
+will collect the sample pictures and then run 2nd code and it
+will start the webcam and take pictures , if the picture match
+with database upto 83% then it will send a signal to the
+arduino and arduino will drive the servo motor for 5 seconds.
+
+>### License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
