@@ -171,4 +171,4 @@ cost.
 [![License](http://img.shields.io/:License-Aswin_BKK-blue.svg?style=flat-square)](https://en.wikipedia.org/wiki/Copyright)
 
 - **[Aswin BKK license](https://en.wikipedia.org/wiki/Open-source_license)**
-- Copyright 2022 © <a href="www.linkedin.com/in/aswinbkk" target="_blank">Aswin BKK</a>.
+- Copyright 2022 © <a href="https://www.linkedin.com/in/aswinbkk" target="_blank">Aswin BKK</a>.
