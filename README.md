@@ -168,7 +168,7 @@ cost.
 ---
 >### License
 
-[![License](http://img.shields.io/:License-Aswin_BKK-blue.svg?style=flat-square)](https://en.wikipedia.org/wiki/Open-source_license)
+[![License](http://img.shields.io/:License-Aswin_BKK-blue.svg?style=flat-square)](https://en.wikipedia.org/wiki/Copyright)
 
-- **[Aswin BKK license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2022 © <a href="https://en.wikipedia.org/wiki/Copyright" target="_blank">Aswin BKK</a>.
+- **[Aswin BKK license](https://en.wikipedia.org/wiki/Open-source_license)**
+- Copyright 2022 © <a href="www.linkedin.com/in/aswinbkk" target="_blank">Aswin BKK</a>.
