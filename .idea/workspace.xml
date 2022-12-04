@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d458a319-9acf-4327-975c-597ccadb26b4" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/member_dp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recognition/static/recognition/img/member_dp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recognition/static/recognition/img/mentor_dp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recognition/templates/recognition/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/recognition/templates/recognition/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/ui_about.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/ui_about.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670149431811</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Initial commit">
+      <created>1670150289248</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670150289248</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial commit">
+      <created>1670151282022</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670151282022</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
